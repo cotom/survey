@@ -2,6 +2,11 @@
 
 A full-stack survey application built with React and FastAPI that allows users to create, share, and analyze surveys with a Google Forms-style dashboard.
 
+### Links
+
+- [GitHub Repository](https://github.com/cotom/survey)
+- [Scrimba Project](https://scrimba.com/learn-react-c0e)
+
 ## Features
 
 - **Create Surveys**: Build surveys with multiple question types (text, multiple choice, checkbox, rating, dropdown)
