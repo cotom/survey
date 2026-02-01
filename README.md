@@ -5,7 +5,7 @@ A full-stack survey application built with React and FastAPI that allows users t
 ### Links
 
 - [GitHub Repository](https://github.com/cotom/survey)
-- <a href="https://github.com/cotom/survey" target="_blank" rel="noopener">GitHub Repository</a>
+- <a href="https://github.com/cotom/survey" target="_blank" rel="noopener">Scrimba Project</a>
 
 ## Features
 
